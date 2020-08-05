@@ -1,0 +1,13 @@
+D:\itransition\task3\generator\bin\Debug\netcoreapp3.1\generator.exe
+D:\itransition\task3\generator\bin\Debug\netcoreapp3.1\generator.deps.json
+D:\itransition\task3\generator\bin\Debug\netcoreapp3.1\generator.runtimeconfig.json
+D:\itransition\task3\generator\bin\Debug\netcoreapp3.1\generator.runtimeconfig.dev.json
+D:\itransition\task3\generator\bin\Debug\netcoreapp3.1\generator.dll
+D:\itransition\task3\generator\bin\Debug\netcoreapp3.1\generator.pdb
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.csprojAssemblyReference.cache
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.AssemblyInfoInputs.cache
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.AssemblyInfo.cs
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.csproj.CoreCompileInputs.cache
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.dll
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.pdb
+D:\itransition\task3\generator\obj\Debug\netcoreapp3.1\generator.genruntimeconfig.cache
